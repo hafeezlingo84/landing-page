@@ -1,0 +1,103 @@
+h1 {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2, h3, h4, h5 {
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+  margin: 0;
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
+}
+
+span {
+  color: #219DB9;
+}
+
+header {
+  background: #1F2427;
+  color: white;
+  padding: 30px;
+}
+
+.slider {
+  background: url(../images/slider.jpg) no-repeat center;
+  background-size: cover;
+  color: white;
+}
+
+.slider h1 {
+  font-size: 60px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.contactForm {
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 30px;
+  margin: 30px auto;
+  color: white;
+}
+
+.cardSection {
+  background: #1F2427;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.card {
+  margin: 20px auto;
+}
+
+.contentSection {
+  padding: 30px;
+}
+
+.offer {
+  background: #1F2427;
+  padding: 30px;
+  color: white;
+}
+
+.OfferDisc {
+  padding: 30px;
+  text-align: center;
+}
+
+.OfferDisc p {
+  text-align: center;
+}
+
+.footer {
+  padding: 30px;
+  background: #1F2427;
+  color: white;
+}
+
+.footer p {
+  text-align: center;
+}
