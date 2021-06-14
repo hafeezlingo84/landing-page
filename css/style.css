@@ -101,3 +101,16 @@ input[type=submit]:hover {
 .footer p {
   text-align: center;
 }
+
+@media (max-width: 720px) { 
+      .reverse{
+         flex-direction: column-reverse !important;
+      }
+      p{
+        text-align: left;
+      }
+
+      .OfferDisc p {
+        text-align: left;
+    }
+ }
